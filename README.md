@@ -2,6 +2,10 @@
 
 This repository demonstrates benchmarking the **Llama 3.2 Vision** model using **Ollama** for image analysis tasks. The tests compare the performance of running the model locally on **CPU** vs **GPU** using Docker.
 
+## Review Video
+
+For a detailed review of this repository, [watch this video](https://youtu.be/3JpoISL_Fx0).
+
 ## Test Scenarios
 
 Two image analysis scenarios were benchmarked:
